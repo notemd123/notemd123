@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 My name is EMD!
 
-<!--
-**notemd123/notemd123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Languages currently working with!: LUA, JavaScript, TypeScript, HTML, CSS, C++!
 
-Here are some ideas to get you started:
+📫 You can contact me via discord @ EMD#1993
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 I'm known for my server development on FiveM & Discord Bots
+
+
+
+
+![g-o-s-h-a-2 copy](https://user-images.githubusercontent.com/115749802/236383427-eeedaaf8-5933-43c1-b330-684aec5ca682.png)
+
